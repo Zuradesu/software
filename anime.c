@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//apalah
 #define MAX_ANIME 100
 
 typedef struct {
